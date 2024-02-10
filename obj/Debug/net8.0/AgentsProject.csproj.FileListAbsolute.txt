@@ -1,0 +1,14 @@
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\bin\Debug\net8.0\AgentsProject.exe
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\bin\Debug\net8.0\AgentsProject.deps.json
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\bin\Debug\net8.0\AgentsProject.runtimeconfig.json
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\bin\Debug\net8.0\AgentsProject.dll
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\bin\Debug\net8.0\AgentsProject.pdb
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.AssemblyInfoInputs.cache
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.AssemblyInfo.cs
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.csproj.CoreCompileInputs.cache
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.dll
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\refint\AgentsProject.dll
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.pdb
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\AgentsProject.genruntimeconfig.cache
+C:\Users\Developer\OneDrive\Escritorio\Prueba Tecnica-Summa\AgentsProject\obj\Debug\net8.0\ref\AgentsProject.dll
